@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YancyGomezz
-- 👀 I’m interested in ... Programming and everithing about it
+- 👀 I’m interested in ... Programming and everything about it
 - 🌱 I’m currently learning ... HTML, and Android Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... learning and practicing every day, trying to resolve exercices about programming
