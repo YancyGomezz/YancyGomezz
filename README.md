@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YancyGomezz
 - 👀 I’m interested in ... Programming and everything about it
 - 🌱 I’m currently learning ... HTML, and Android Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... something of logic and web development
 - 📫 How to reach me ... learning and practicing every day, trying to resolve exercices about programming
 
 <!---
